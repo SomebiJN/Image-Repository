@@ -23,4 +23,4 @@ In order for upload to work, a server has to be running on port 3001 by running 
 ```
 $ nodemon server.js
 ```
-The app can now be viewed in the broser and once the selected file is submitted, it is displayed in the gallery
+The app can now be viewed in the browser and once the selected file is submitted, it is displayed in the gallery.
