@@ -16,7 +16,7 @@ $ cd ../my-app
 $ npm install
 $ npm start
 ```
-The react app can then be viewed on http://localhost:3000
+The app can then be viewed on http://localhost:3000
 
 In order for upload to work, a server has to be running on port 3001 by running in a different terminal:
 
